@@ -1,0 +1,33 @@
+body{
+	text-align:center;
+}
+
+ul{
+	display:block;
+}
+
+.controls{
+	float:right;
+}
+
+#stats p{
+	color:red;
+}
+
+footer a{
+	text-decoration: none;
+}
+
+.monitordisplay{
+	min-height: 76vh;
+	background-color: rgba(0,0,255,0.5);
+	background-image: url("runner.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+
+.monitordisplay{
+
+}
